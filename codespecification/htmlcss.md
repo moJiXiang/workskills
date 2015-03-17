@@ -33,7 +33,7 @@
 5. 其他(animation, transition等)
 
 ### id的命名
-(1)页面结构 
+1. 页面结构 
 *    容器: container 
 *    页头：header 
 *    内容：content/container 
@@ -44,7 +44,7 @@
 *    栏目：column 
 *    页面外围控制整体布局宽度：wrapper 
 *    左右中：left right center 
-(2)导航 
+2. 导航 
 * 导航：nav 
 * 主导航：mainbav 
 * 子导航：subnav 
@@ -56,7 +56,7 @@
 * 子菜单：submenu 
 * 标题: title 
 * 摘要: summary 
-(3)功能 
+3. 功能 
 * 标志：logo 
 * 广告：banner 
 * 登陆：login 
