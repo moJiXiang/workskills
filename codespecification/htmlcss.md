@@ -1,8 +1,8 @@
 ### html规范
 1. 使用html5的规范<!DOCTYPE html>
-2. 注意html标签行为与语义，<li onclick=”goToRecommendations();”>All recommendations</li>应该写为<a href=”recommendations/”>All recommendations</a>
+2. 注意html标签行为与语义，`<li onclick=”goToRecommendations();”>All recommendations</li>`应该写为`<a href=”recommendations/”>All recommendations</a>`
 3. 多媒体标签向后兼容，记得加上alt属性
-4. 由于utf-8编码的使用，某些记号无需转码，如&mdash;, &rdquo;, or &#x263a;当然<或是&除外
+4. 由于utf-8编码的使用，某些记号无需转码，如`&mdash;`, `&rdquo;`, or `&#x263a;`当然<或是&除外
 5. 注意HTML5 specification?中规定的可省略标签
 6. type属性不要使用！HTML5中已经规定为默认且无必要
 7. 为block标签另起一行，li出现例外可以放在一行
@@ -45,43 +45,43 @@
 *    页面外围控制整体布局宽度：wrapper 
 *    左右中：left right center 
 (2)导航 
-*导航：nav 
-*主导航：mainbav 
-*子导航：subnav 
-*顶导航：topnav 
-*边导航：sidebar 
-*左导航：leftsidebar 
-*右导航：rightsidebar 
-*菜单：menu 
-*子菜单：submenu 
-*标题: title 
-*摘要: summary 
+* 导航：nav 
+* 主导航：mainbav 
+* 子导航：subnav 
+* 顶导航：topnav 
+* 边导航：sidebar 
+* 左导航：leftsidebar 
+* 右导航：rightsidebar 
+* 菜单：menu 
+* 子菜单：submenu 
+* 标题: title 
+* 摘要: summary 
 (3)功能 
-*标志：logo 
-*广告：banner 
-*登陆：login 
-*登录条：loginbar 
-*注册：regsiter 
-*搜索：search 
-*功能区：shop 
-*标题：title 
-*加入：joinus 
-*状态：status 
-*按钮：btn 
-*滚动：scroll 
-*标签页：tab 
-*文章列表：list 
-*提示信息：msg 
-*当前的: current 
-*小技巧：tips 
-*图标: icon 
-*注释：note 
-*指南：guild 
-*服务：service 
-*热点：hot 
-*新闻：news 
-*下载：download 
-*投票：vote 
-*合作伙伴：partner 
-*友情链接：link 
-*版权：copyright 
+* 标志：logo 
+* 广告：banner 
+* 登陆：login 
+* 登录条：loginbar 
+* 注册：regsiter 
+* 搜索：search 
+* 功能区：shop 
+* 标题：title 
+* 加入：joinus 
+* 状态：status 
+* 按钮：btn 
+* 滚动：scroll 
+* 标签页：tab 
+* 文章列表：list 
+* 提示信息：msg 
+* 当前的: current 
+* 小技巧：tips 
+* 图标: icon 
+* 注释：note 
+* 指南：guild 
+* 服务：service 
+* 热点：hot 
+* 新闻：news 
+* 下载：download 
+* 投票：vote 
+* 合作伙伴：partner 
+* 友情链接：link 
+* 版权：copyright 
